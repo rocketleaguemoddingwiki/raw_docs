@@ -1,2 +1,3 @@
-# raw_docs
-Raw wiki
+# How to participate to the wiki
+
+...
