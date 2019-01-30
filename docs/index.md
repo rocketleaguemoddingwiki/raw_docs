@@ -2,7 +2,7 @@
 
 ## How to help with the wiki
 
-Follow the tutorial on this page.
+Follow the tutorial on [this page](https://github.com/rocketleaguemoddingwiki/raw_docs/blob/master/README.md).
 
 ## Useful links
 
