@@ -1,0 +1,8 @@
+site_name: Rocket League Modding Wiki
+nav:
+    - Home: index.md
+    - Setup: setup_required.md
+theme:
+  name: 'material'
+markdown_extensions:
+  - codehilite
